@@ -1,0 +1,33 @@
+{
+  "summary": "Verified live body link to sourcey.com on AlternativeTo Sourcey about Official Links.",
+  "observation": {
+    "page_url": "https://alternativeto.net/software/sourcey/about/",
+    "domain": "alternativeto.net",
+    "rdap_registration_date": "2008-01-18",
+    "prior_existence_proof": "https://web.archive.org/web/20090311163950/http://alternativeto.net/",
+    "anchor_text": "sourcey.com",
+    "link_target": "https://sourcey.com",
+    "section": "Official Links",
+    "route": "preexisting_resource_page",
+    "text_written": null,
+    "how_it_landed": "Found an existing AlternativeTo resource/about page for Sourcey whose Official Links section already includes a normal in-body anchor to https://sourcey.com. Plain fetch 200 without cookies. Neo did not author the page.",
+    "tier": "external_citation",
+    "date_checked": "2026-09-09"
+  },
+  "observations": [
+    {
+      "page_url": "https://alternativeto.net/software/sourcey/about/",
+      "domain": "alternativeto.net",
+      "rdap_registration_date": "2008-01-18",
+      "prior_existence_proof": "https://web.archive.org/web/20090311163950/http://alternativeto.net/",
+      "anchor_text": "sourcey.com",
+      "link_target": "https://sourcey.com",
+      "section": "Official Links",
+      "route": "preexisting_resource_page",
+      "text_written": null,
+      "how_it_landed": "Found an existing AlternativeTo resource/about page for Sourcey whose Official Links section already includes a normal in-body anchor to https://sourcey.com. Plain fetch 200 without cookies. Neo did not author the page.",
+      "tier": "external_citation",
+      "date_checked": "2026-09-09"
+    }
+  ]
+}
